@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+html,body {
+    height: 100%;
+}
+
+.advice {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+    background: url("assets/source.gif") no-repeat 99% 99%;
+}
